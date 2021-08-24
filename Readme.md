@@ -4,7 +4,6 @@
 
 - 🔭 I am intrested in Machine Learning, especially in Computer Vision.
 - 🌱 I’m currently developeng a SAAS Website using PowerBI, PHP and JS 🤣 
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Get a Job in Germany, be successful at the University.
 - ⚡ Fun fact: I love to play piano
 
