@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammet  👋
 
-## I'm a Master student at Technische Universität Darmstadt(actullay I will start in 01.10.2021), currently working as an R&D Engineer at Autonom!!
+## I'm a Master's student at Technische Universität Darmstadt in Computer Science (actually I will start in 01.10.2021) and currently working as an R&D Engineer at Autonom!!
 
 - 🔭 I am intrested in Machine Learning, especially in Computer Vision.
 - 🌱 I’m currently developeng a SAAS Website using PowerBI, PHP and JS 🤣 
