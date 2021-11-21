@@ -3,7 +3,6 @@
 ## I'm a Master's student at Technische Universität Darmstadt in Computer Science 
 
 - 🔭 I am intrested in Machine Learning, especially in Computer Vision.
-- 🌱 I’m currently developeng a SAAS Website using PowerBI, PHP and JS 🤣 
 - 👯 My bachelor Thesis was about Automated Machine Learning Platform named UTMA.
 - 🥅 2021 Goals: Get a Job in Germany, be better in Data Science and be successful at the University.
 - ⚡ Fun fact: I love to play piano
