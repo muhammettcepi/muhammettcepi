@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammet  👋
 
-## I'm a Master's student at Technische Universität Darmstadt in Computer Science 
+## I'm a Master's student at Darmstadt Technical University in Computer Science 
 
 - 🔭 I am intrested in Machine Learning, especially in Computer Vision.
 - 👯 My bachelor Thesis was about Automated Machine Learning Platform named UTMA.
