@@ -4,7 +4,7 @@
 
 - 🔭 I am intrested in Machine Learning, especially in Computer Vision.
 - 👯 My bachelor Thesis was about Automated Machine Learning Platform named UTMA.
-- 🥅 2022 Goals: Be successful at the University.
+- 🥅 2023 Goals: Be successful at the University.
 - ⚡ Fun fact: I love to play piano
 
 ### Connect with me:
